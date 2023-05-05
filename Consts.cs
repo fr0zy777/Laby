@@ -1,4 +1,6 @@
-﻿namespace LabirintMax
+﻿using System;
+
+namespace LabirintMax
 {
     static class Consts
     {
@@ -8,5 +10,8 @@
         public const char PersonSymbol = 'A';
 
         public const int maxHp = 200;
+
+        public const ConsoleColor PersonBackgroundColor = ConsoleColor.Red;
+        public const ConsoleColor PersonForegroundColor = ConsoleColor.Black;
     }
 }

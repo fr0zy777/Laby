@@ -1,0 +1,8 @@
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\bin\Debug\Jmix.exe.config
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\bin\Debug\Jmix.exe
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\bin\Debug\Jmix.pdb
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\obj\Debug\Jmix.csproj.AssemblyReference.cache
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\obj\Debug\Jmix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\obj\Debug\Jmix.csproj.CoreCompileInputs.cache
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\obj\Debug\Jmix.exe
+C:\Users\Les\source\repos\LabirintMaksNew\LabirintMaksNew\LabirintMaksNew\obj\Debug\Jmix.pdb

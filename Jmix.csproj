@@ -43,7 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\OneDrive\Робочий стіл\жмых1.cs" />
+    <Compile Include="Consts.cs" />
+    <Compile Include="Draw.cs" />
+    <Compile Include="Input.cs" />
+    <Compile Include="Item.cs" />
+    <Compile Include="Logic.cs" />
+    <Compile Include="Person.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
